@@ -10,4 +10,4 @@ It is a simple tool to store, train and to recognize the faces.
 - Run the 'program.py'
 - Click on 'TakeImage' button to store faces.
 - Click on 'TrainImage' button to train the dataset.
-- Click on 'RecognizeFace' button to recognize the faces.
+- Click on 'IdentifyFace' button to recognize the faces.
